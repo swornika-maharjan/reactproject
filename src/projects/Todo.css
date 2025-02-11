@@ -1,0 +1,28 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  .input-container {
+    margin: 10px;
+  }
+  input {
+    padding: 8px;
+  }
+  button {
+    margin-left: 5px;
+    padding: 8px;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
